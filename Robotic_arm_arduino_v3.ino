@@ -1,4 +1,4 @@
-//HARE KRISHNA
+
 #include <Wire.h>
 #include <Adafruit_PWMServoDriver.h>
 #include <cvzone.h>
